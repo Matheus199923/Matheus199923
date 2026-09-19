@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá! Eu sou Matheus Santana 👋
 
-<!--
-**Matheus199923/Matheus199923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** na Universidade Vila Velha (UVV).
 
-Here are some ideas to get you started:
+💻 Tenho conhecimentos em **desenvolvimento backend e frontend**, com foco em aprendizado e desenvolvimento de projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e conhecimentos
+
+**Backend**
+- Java
+- Spring Boot
+- Python
+- APIs REST
+
+**Frontend**
+- HTML
+- CSS
+
+**Banco de Dados**
+- SQL
+- SQL Server
+- MySQL
+
+**Ferramentas**
+- Git
+- GitHub
+- Postman
+
+**Conceitos**
+- Programação Orientada a Objetos
+- CRUD
+- Banco de Dados
+
+### 📚 Atualmente estudando
+
+- Desenvolvimento Backend com Java e Spring Boot
+- APIs REST
+- Banco de Dados
+- Programação Orientada a Objetos
+- Desenvolvimento de aplicações web
+
+### 📌 Projeto em destaque
+
+**Sistema de Gestão Financeira**
+
+Aplicação para gerenciamento de receitas e despesas, desenvolvida com **Java, Spring Boot e SQL Server**, com operações CRUD, consultas e filtros.
+
+### 🎯 Objetivo
+
+Busco uma oportunidade de **estágio na área de tecnologia** e crescer em um time de dev.
+
+### 📫 Contato
+
+- E-mail: **matheus.scl1999@gmail.com**
